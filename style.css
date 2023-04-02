@@ -111,6 +111,9 @@ hr {
 }
 .dp {
     height: 200px;
+    border-radius: 50%; 
+    /* box-shadow: 0 0 98px 6px rgba(181, 233, 210, 0.2);  */
+    box-shadow: 5px 10px 13px 1px #888888
 }
 
 
